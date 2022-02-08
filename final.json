@@ -1,0 +1,706 @@
+[
+    {
+      "Name": "Anakin Skywalker",
+      "Alias": "Darth Vader",
+      "First Movie/Show Appearance": "The Phantom Menace",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Luke Skywalker",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Jedi",
+      "Status": "Dead",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Leia Organa",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "General",
+      "Status": "Dead",
+      "Home World": "Alderaan"
+    },
+    {
+      "Name": "Han Solo",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Smuggler",
+      "Status": "Dead",
+      "Home World": "Corellia"
+    },
+    {
+      "Name": "Ben Solo",
+      "Alias": "Kylo Ren",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Chandrila"
+    },
+    {
+      "Name": "Padme Naberrie",
+      "Alias": "Padme Amidala",
+      "First Movie/Show Appearance": "The Phantom Menace",
+      "Occupation": "Senator",
+      "Status": "Dead",
+      "Home World": "Naboo"
+    },
+    {
+      "Name": "Bail Organa",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Phantom Menace",
+      "Occupation": "Senator",
+      "Status": "Dead",
+      "Home World": "Alderaan"
+    },
+    {
+      "Name": "Ezra Bridger",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Padawan",
+      "Status": "Unknown",
+      "Home World": "Lothal"
+    },
+    {
+      "Name": "Caleb Dune",
+      "Alias": "Kanan Jarrus",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Jedi Knight",
+      "Status": "Dead",
+      "Home World": "Coruscant"
+    },
+    {
+      "Name": "Qui-Gon Jinn",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Phantom Menace",
+      "Occupation": "Jedi Master",
+      "Status": "Dead",
+      "Home World": "Coruscant"
+    },
+    {
+      "Name": "Obi-Wan Kenobi",
+      "Alias": "Ben Kenobi",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Jedi Master",
+      "Status": "Dead",
+      "Home World": "Stewjon"
+    },
+    {
+      "Name": "Cal Kestis",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Fallen Order",
+      "Occupation": "Jedi Padawan",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Jocasta Nu",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Attack of the Clones",
+      "Occupation": "Jedi Librarian",
+      "Status": "Dead",
+      "Home World": "Coruscant"
+    },
+    {
+      "Name": "Rey",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Jedi",
+      "Status": "Alive",
+      "Home World": "Jakku"
+    },
+    {
+      "Name": "Mace Windu",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Phantom Menace",
+      "Occupation": "Jedi Master",
+      "Status": "Dead",
+      "Home World": "Haruun Kal"
+    },
+    {
+      "Name": "Darth Bane",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Apatros"
+    },
+    {
+      "Name": "Count Dooku",
+      "Alias": "Darth Tyranus",
+      "First Movie/Show Appearance": "Attack of the Clones",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Serenno"
+    },
+    {
+      "Name": "Sheev Palpatine",
+      "Alias": "Darth Sidious",
+      "First Movie/Show Appearance": "Empire Strikes Back",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Naboo"
+    },
+    {
+      "Name": "99",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "2224",
+      "Alias": "Cody",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "4040",
+      "Alias": "Cutup",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "1010",
+      "Alias": "Fox",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "1004",
+      "Alias": "Gree",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "5576",
+      "Alias": "Gregor",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "5555",
+      "Alias": "Fives",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "5597",
+      "Alias": "Jesse",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Dead",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "7567",
+      "Alias": "Rex",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "9904",
+      "Alias": "Crosshair",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "1409",
+      "Alias": "Echo",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Hunter",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Tech",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Wrecker",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Omega",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Bad Batch",
+      "Occupation": "Clone",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Lando Calrissian",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Empire Strikes Back",
+      "Occupation": "General",
+      "Status": "Alive",
+      "Home World": "Socorro"
+    },
+    {
+      "Name": "Mon Mothma",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Return of the Jedi",
+      "Occupation": "Senator",
+      "Status": "Alive",
+      "Home World": "Chandrila"
+    },
+    {
+      "Name": "Wedge Antilles",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Pilot",
+      "Status": "Alive",
+      "Home World": "Corellia"
+    },
+    {
+      "Name": "Biggs Darklighter",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Pilot",
+      "Status": "Dead",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Wes Janson",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Empire Strikes Back",
+      "Occupation": "Pilot",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Cassian Andor",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Captain",
+      "Status": "Dead",
+      "Home World": "Fest"
+    },
+    {
+      "Name": "Bodhi Rook",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Pilot",
+      "Status": "Dead",
+      "Home World": "Jedha"
+    },
+    {
+      "Name": "Chirrut Imwe",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Warrior",
+      "Status": "Dead",
+      "Home World": "Jedha"
+    },
+    {
+      "Name": "Baze Malbus",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Mercenary",
+      "Status": "Dead",
+      "Home World": "Jedha"
+    },
+    {
+      "Name": "Galen Erso",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Imperial Scientist",
+      "Status": "Dead",
+      "Home World": "Vallt"
+    },
+    {
+      "Name": "Jyn Erso",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Criminal",
+      "Status": "Dead",
+      "Home World": "Vallt"
+    },
+    {
+      "Name": "Saw Gerrera",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Rebel",
+      "Status": "Dead",
+      "Home World": "Onderon"
+    },
+    {
+      "Name": "Steela Gerrera",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Rebel",
+      "Status": "Dead",
+      "Home World": "Onderon"
+    },
+    {
+      "Name": "Orson Krennic",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rogue One",
+      "Occupation": "Director",
+      "Status": "Dead",
+      "Home World": "Lexrul"
+    },
+    {
+      "Name": "Moff Gideon",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Commander",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Poe Dameron",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Pilot",
+      "Status": "Alive",
+      "Home World": "Yavin 4"
+    },
+    {
+      "Name": 2187,
+      "Alias": "Finn",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Stormtrooper",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Amilyn Holdo",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Last Jedi",
+      "Occupation": "Admiral",
+      "Status": "Dead",
+      "Home World": "Gatalena"
+    },
+    {
+      "Name": "Rose Tico",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Last Jedi",
+      "Occupation": "Mantenence",
+      "Status": "Alive",
+      "Home World": "Hays Minor"
+    },
+    {
+      "Name": "Cara Dune",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Rebel",
+      "Status": "Alive",
+      "Home World": "Alderaan"
+    },
+    {
+      "Name": "Armitage Hux",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "General",
+      "Status": "Dead",
+      "Home World": "Arkanis"
+    },
+    {
+      "Name": "Enric Pryde",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Rise of Skywalker",
+      "Occupation": "General",
+      "Status": "Dead",
+      "Home World": "Alsakan"
+    },
+    {
+      "Name": "Phasma",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Captain",
+      "Status": "Dead",
+      "Home World": "Parnassos"
+    },
+    {
+      "Name": "Tobias Beckett",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Solo",
+      "Occupation": "Gangster",
+      "Status": "Dead",
+      "Home World": "Glee Anslem"
+    },
+    {
+      "Name": "Greef Karga",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Qi'ra",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Solo",
+      "Occupation": "Lieutenant",
+      "Status": "Alive",
+      "Home World": "Corellia"
+    },
+    {
+      "Name": "Fennec Shand",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Din Djarin",
+      "Alias": "The Mandalorian",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Aq Vetina"
+    },
+    {
+      "Name": "Boba Fett",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Empire Strikes Back",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Kamino"
+    },
+    {
+      "Name": "Jango Fett",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Attack of the Clones",
+      "Occupation": "Bounty Hunter",
+      "Status": "Dead",
+      "Home World": "Concord Dawn"
+    },
+    {
+      "Name": "Bo-Katan Kryze",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Lieutenant",
+      "Status": "Alive",
+      "Home World": "Mandalore"
+    },
+    {
+      "Name": "Satine Kryze",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Duchess",
+      "Status": "Dead",
+      "Home World": "Mandalore"
+    },
+    {
+      "Name": "Sabine Wren",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Mandalore"
+    },
+    {
+      "Name": "Babu Frik",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Rise of Skywalker",
+      "Occupation": "Droidsmith",
+      "Status": "Alive",
+      "Home World": "Anzellan"
+    },
+    {
+      "Name": "Thrawn",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Admiral",
+      "Status": "Unknown",
+      "Home World": "Csilla"
+    },
+    {
+      "Name": "Cad Bane",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Bounty Hunter",
+      "Status": "Alive",
+      "Home World": "Duro"
+    },
+    {
+      "Name": "Wicket",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Return of the Jedi",
+      "Occupation": "Ewok",
+      "Status": "Alive",
+      "Home World": "Endor"
+    },
+    {
+      "Name": "Jar Jar Binks",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Phantom Menace",
+      "Occupation": "Sith",
+      "Status": "Alive",
+      "Home World": "Naboo"
+    },
+    {
+      "Name": "Jabba the Hutt",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Return of the Jedi",
+      "Occupation": "Crime Boss",
+      "Status": "Dead",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Qymaen jai Sheelal",
+      "Alias": "Grievous",
+      "First Movie/Show Appearance": "Revenge of the Sith",
+      "Occupation": "General",
+      "Status": "Dead",
+      "Home World": "Kalee"
+    },
+    {
+      "Name": "Garazeb Orrelios",
+      "Alias": "Zeb",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Crewmate",
+      "Status": "Alive",
+      "Home World": "Lasan"
+    },
+    {
+      "Name": "Gial Ackbar",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Admiral",
+      "Status": "Dead",
+      "Home World": "Mon Cala"
+    },
+    {
+      "Name": "Greedo",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Bounty Hunter",
+      "Status": "Dead",
+      "Home World": "Rodia"
+    },
+    {
+      "Name": "Ahsoka Tano",
+      "Alias": "Fulcrum",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Grey Jedi",
+      "Status": "Unknown",
+      "Home World": "Shili"
+    },
+    {
+      "Name": "Watto",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Phantom Menace",
+      "Occupation": "Shop Keeper",
+      "Status": "Unknown",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Bib Fortuna",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Return of the Jedi",
+      "Occupation": "Majordomo",
+      "Status": "Dead",
+      "Home World": "Tattoine"
+    },
+    {
+      "Name": "Hera Syndulla",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Rebels",
+      "Occupation": "Pilot",
+      "Status": "Alive",
+      "Home World": "Ryloth"
+    },
+    {
+      "Name": "Hondo Ohnaka",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Pirate",
+      "Status": "Alive",
+      "Home World": "Sriluur"
+    },
+    {
+      "Name": "Chewbacca",
+      "Alias": "none",
+      "First Movie/Show Appearance": "A New Hope",
+      "Occupation": "Smuggler",
+      "Status": "Alive",
+      "Home World": "Kashyyyk"
+    },
+    {
+      "Name": "Yoda",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Empire Strikes Back",
+      "Occupation": "Jedi Master",
+      "Status": "Dead",
+      "Home World": "Unknown"
+    },
+    {
+      "Name": "Grogu",
+      "Alias": "The Child",
+      "First Movie/Show Appearance": "Mandalorian",
+      "Occupation": "Youngling",
+      "Status": "Alive",
+      "Home World": "Coruscant"
+    },
+    {
+      "Name": "Darth Maul",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Phantom Menace",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Dathomir"
+    },
+    {
+      "Name": "Savage Opress",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Nightbrother",
+      "Status": "Dead",
+      "Home World": "Dathomir"
+    },
+    {
+      "Name": "Asajj Ventress",
+      "Alias": "none",
+      "First Movie/Show Appearance": "Clone Wars",
+      "Occupation": "Sith",
+      "Status": "Dead",
+      "Home World": "Iridonia"
+    },
+    {
+      "Name": "Maz Kanata",
+      "Alias": "none",
+      "First Movie/Show Appearance": "The Force Awakens",
+      "Occupation": "Pirate",
+      "Status": "Alive",
+      "Home World": "Takodana"
+    }
+  ]
